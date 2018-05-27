@@ -1,0 +1,42 @@
+.imgBox {
+            margin:100px;
+            width: 300px;
+            height: 300px;
+            background: rgba(191, 255, 240, 0.11);
+            display: inline-block;
+}
+#bgphoto{
+            position: absolute;
+            left:0px;
+            width:1000px;
+            height:80%;
+            background-color: rgba(205, 203, 212, 0);
+}
+#bgbutton{
+            position: absolute;
+            left:1000px;
+            width:300px;
+            height:80%;
+            background-color: #d4ecff;
+}
+
+#rawImg{
+            position: absolute;
+            left:50px;
+}
+#resImg{
+            position: absolute;
+            left: 400px;
+}
+#btn1{
+            position:absolute;
+            top:450px;
+            left:420px;
+            width:100px;
+}
+.choose{
+            position: absolute;
+            left:0px;
+            text-align: right;
+            width:80px;
+}
